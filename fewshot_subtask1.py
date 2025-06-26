@@ -316,7 +316,7 @@ if __name__ == "__main__":
     batch = "batch2+batch3"  # batch2, batch3, batch2+batch3
     data_type = "train"  # if test, no batch
     prompt_setup = "fewshot"  # zeroshot, fewshot, cot
-    LLM = "llama-3.1-8b-instruct"
+    LLM = "llama-3.1-70b-instruct"
     
     # Data loading
     if data_type == "train":
