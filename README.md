@@ -1,7 +1,7 @@
 # SciHal-Challenge
 
 ## Citation
-If you find FinCon useful, we would appreciate it if you consider citing our work:
+If you find our work useful, we would appreciate it if you consider citing our work:
 ```md
 @inproceedings{cao2025detecting,
   title={Detecting Hallucinations in Scientific Claims by Combining Prompting Strategies and Internal State Classification},
